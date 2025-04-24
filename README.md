@@ -32,7 +32,7 @@ tbd
 
 tbd
 
-[PDF Template](https://github.com/malleVF/Supernote-Templates/blob/main/Files/Templates/Meeting_Minute_EN_MD_v1.pdf)
+[PDF Template](https://github.com/malleVF/Supernote-Templates/blob/main/Files/Templates/Meeting_EN_v1.pdf)
 
 [Markdown friendly PDF Template](https://github.com/malleVF/Supernote-Templates/blob/main/Files/Templates/Meeting_Minute_EN_MD_v1.pdf)
 
