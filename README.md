@@ -11,7 +11,7 @@ I create my Supernote templates mostly with PowerPoint and import them as PDF fi
 
 All the icons in my templates are from https://lucide.dev/icons/. 
 
-I prefer the scribble style in my Supernote. That's why I redesigned the Lucide icons to match this style. For the fonts, I use Excalifont as my preferred style.
+I prefer the scribble style in my Supernote. That's why I redesigned the Lucide icons to match this style. For the font, I use [Excalifont](https://plus.excalidraw.com/excalifont) as my preferred style.
 
 ### Project Planner
 
