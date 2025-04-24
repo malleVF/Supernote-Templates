@@ -22,9 +22,10 @@ tbd
 ### Daily Note
 
 Template for a the whole week.
+
 tbd
 
-[PDF Template](https://github.com/malleVF/Supernote-Templates/blob/main/Files/Templates/Daily-Note_EN_v1.pdf)
+[PDF Template](https://github.com/malleVF/Supernote-Templates/blob/main/Files/Templates/Daily-Note_EN_V1.pdf)
 
 
 ### Meeting Minute
