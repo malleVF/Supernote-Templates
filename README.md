@@ -91,3 +91,23 @@ I came across a collection of weather symbols and thought it was a great idea to
 Just for testing stuff.
 
 ![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/My_Collection.png)
+
+### Ribbons
+
+I designed some ribbons in different styles:
+
+****
+![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/Ribbons.png)
+
+![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/Ribbons 2.png)
+
+**Spiral Cable**
+![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/Spiral-Cable.png)
+
+
+**BLOCK**
+![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/Block.png)
+
+**Line**
+
+![](https://github.com/malleVF/Supernote-Templates/blob/main/Images/Lines.png)
